@@ -35,4 +35,4 @@ To simplify access to these functions, we've centralized them into a single file
 
 **Included Packages (pubspec.yaml):**
 - `intl`: Used for date formatting purposes (dd-mm-yyyy).
-- `random_number`: Utilized to set a unique ID on each patient detail.
+- `random_string`: Utilized to set a unique ID on each patient detail.
