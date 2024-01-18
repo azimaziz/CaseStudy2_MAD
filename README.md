@@ -25,7 +25,8 @@ Our project comprises distinct pages for each CRUD function:
 
 To simplify access to these functions, we've centralized them into a single file named database.dart.
 
-We have also included the pubspec.yaml to show the packages that we have utilised which were:
-- 
+We have also included the pubspec.yaml file to show other packages we have included:
+- intl: For date formatting purposes (dd-mm-yyyy)
+- random_number: To set a unique ID on each patient details
 
 
