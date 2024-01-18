@@ -14,7 +14,7 @@
   - Created the registration form in `create.dart`.
   
 - **Haikal Wijdan:**
-  - Created a homepage that can retrieve data.
+  - Created a homepage that can retrieve data in `homepage.dart`.
   - Implemented a delete function to remove patient details in `delete.dart`.
 
 - **Afnan Iman bin Azman:**
